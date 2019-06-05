@@ -534,10 +534,10 @@ namespace LANDZO_TS {
 
 
     export enum Servos {
-        S1 = 0x01,
-        S2 = 0x02,
-        S3 = 0x03,
-        S4 = 0x04,
+        S1 = 0x04,
+        S2 = 0x03,
+        S3 = 0x02,
+        S4 = 0x01,
     }
 
     export enum Motors {

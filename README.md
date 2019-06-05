@@ -5,15 +5,15 @@ makecode I2C LCD1602 package for micro:bit
 Author: shaoziyang  
 Date:   2018.Mar  
 
-![](https://raw.githubusercontent.com/microbit-makecode-packages/i2cLCD1602/master/icon.png)  
+
   
-![](https://raw.githubusercontent.com/microbit-makecode-packages/i2cLCD1602/master/lcd.jpg)
+
 
 ## usage
 
 open your microbit makecode project, in Add Package, paste  
 
-https://github.com/shangwudong/i2cLCD1602 
+
 
 to search box then search.
 
@@ -66,7 +66,7 @@ shift right screen
 
 ## Demo
 
-![](https://raw.githubusercontent.com/microbit-makecode-packages/i2cLCD1602/master/demo.jpg)
+
 
 ## License
 
@@ -79,4 +79,3 @@ Copyright (c) 2018, microbit/micropython Chinese community
 * for PXT/microbit
 
 
-[From microbit/micropython Chinese community](http://www.micropython.org.cn)
