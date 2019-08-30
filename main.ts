@@ -691,13 +691,13 @@ namespace LANDZO_TS {
     //% blockId=landzobit_desk_lamp_turn_on block="台灯开"
     //% weight=100
     export function DeskLampTurnOn(): void {
-
+        MotorRun(Motors.M1, 255);
     }
 
     //% blockId=landzobit_desk_lamp_turn_off block="台灯灭"
     //% weight=100
     export function DeskLampTurnOff(): void {
-
+        MotorRun(Motors.M1, 0);
     }
     
 }
