@@ -688,5 +688,16 @@ namespace LANDZO_TS {
         }
     }
     
+    //% blockId=landzobit_desk_lamp_turn_on block="台灯开"
+    //% weight=101
+    export function DeskLampTurnOn(): void {
+
+    }
+
+    //% blockId=landzobit_desk_lamp_turn_off block="台灯灭"
+    //% weight=105
+    export function DeskLampTurnOff(): void {
+
+    }
     
 }
